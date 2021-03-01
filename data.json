@@ -1,0 +1,179 @@
+{
+	"experience":[
+	 	{
+			"company":"GALILSOFTWARE",
+			"location":"Nazareth,il",
+            "haveSubExperience":true,
+            "date":"August 2018 - Present",
+            "SubExperience":[
+                {
+                    "main":[
+                        "As an Angular developer at Matics, I developed important real-time machine management features for factories and was responsible for maintaining a major part of the system."
+                    ],
+                    "subMain":[
+                        " Jira, Agile, GitHub, CSS, JavaScript, AngularJS"
+                    ]
+                },
+                {
+                    "main":[
+                        "As an Android developer at VocalisHealth, I built an app from scratch that allows user voice recording to monitor coronavirus, using:"
+                    ],
+                    "subMain":[
+                        "Dagger2, RxJava2, Retrofit, MVVM, Kotlin."
+                    ]
+                },
+                {
+                    "main":[
+                        " As an Android developer in a Practi project, we developed a smart checkout app and system to run small and medium-sized businesses to help restaurants in the Corona crisis, by using:"
+                    ],
+                    "subMain":[
+                        "Modular App Architecture and MVVM Structures.",
+                        "Kotlin, Hilt, Coroutines Kotlin, Retrofit."
+                    ]
+                }
+            ]
+
+		},{
+			"company":"Zvoid",
+			"location":"Haifa,il",
+            "haveSubExperience":false,
+            "date":"May 2017 - August 2018",
+            "data":{
+                "main":[
+                    "Design and build advanced applications for the Android platform",
+                    "Collaborate with cross-functional teams to define, design, and ship new features.",
+                    "Work with outside data sources and APIs.",
+                    "Unit-test code for robustness, including edge cases, usability, and general reliability.",
+                    "Work on bug fixing and improving application performance.",
+                    "Continuously discover, evaluate, and implement new technologies to maximize development efficiency."
+                ],
+                "subMain":[
+                ]
+            }
+		}
+	
+	],
+	"education":[
+        {
+            "univercity":"UNIVERSITY OF AL-ISRAA - JORDAN",
+            "date":"October 2016",
+            "level":"BACHELOR OF SCIENCE",
+            "major":"Computer Engineer",
+            "GPA":"90",
+            "data":{
+                "main":[],
+                "subMain":[]
+            },
+            "imgUrl":""
+        }
+
+    ],
+	"SKILLS":[
+        {
+            "title":"PROGRAMMING LANGUAGES & TOOLS",
+            "details":[
+                {
+                    "name":"android",
+                    "icon":"fab fa-android"
+                },                {
+                    "name":"html5",
+                    "icon":"fab fa-html5"
+                },                {
+                    "name":"css3",
+                    "icon":"fab fa-css3-alt"
+                },                {
+                    "name":"js",
+                    "icon":"fab fa-js-square"
+                },                {
+                    "name":"angular",
+                    "icon":"fab fa-angular"
+                },                {
+                    "name":"react",
+                    "icon":"fab fa-react"
+                },                {
+                    "name":"node-js",
+                    "icon":"fab fa-node-js"
+                },                {
+                    "name":"git",
+                    "icon":"fab fa-git"
+                },                {
+                    "name":"github",
+                    "icon":"fab fa-github"
+                },                {
+                    "name":"aws",
+                    "icon":"fab fa-aws"
+                },                {
+                    "name":"docker",
+                    "icon":"fab fa-docker"
+                },                {
+                    "name":"database",
+                    "icon":"fas fa-database"
+                },                {
+                    "name":"npm",
+                    "icon":"fab fa-npm"
+                }         
+            ]
+        },
+        {
+            "title":"WORKFLOW",
+            "details":[
+                "Agile Development & Scrum",
+                "Mobile-First, Responsive Design",
+                "Cross Browser Testing & Debugging",
+                "Cross Functional Teams"
+            ]
+        }
+    ],
+	"interests":[
+        {
+            "main":[
+                "Apart from being a web developer, I enjoy most of my time being outdoors. When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the mobile and web development world."
+            ],
+            "subMain":[]
+        }
+    ],
+	"certifications":[
+        {
+            "title":"Android Development Bootcamp",
+            "from":"Tsofen",
+            "link":"",
+            "date":"April 2017",
+            "imgUrl":""
+        },
+        {
+            "title":"AWS Fundamentals Specialization",
+            "from":"AWS",
+            "link":"https://www.coursera.org/account/accomplishments/specialization/certificate/J3HM6NKB3EQ7",
+            "date":"Dec 2020",
+            "imgUrl":""
+
+        },
+        {
+            "title":"M001: MongoDB Basics",
+            "from":"MongoDB University",
+            "link":"https://university.mongodb.com/course_completion/a712ad7e-e5e3-4ca1-8ee7-951572c38803?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing",
+            "date":"Jan 2021",
+            "imgUrl":""
+
+        },
+        {
+            "title":"Learning Linux Command Line",
+            "from":"CompTIA",
+            "link":"",
+            "date":"Nov 2020",
+            "imgUrl":""
+        }
+    ],
+	"awards":[
+        "Ranked 1st In Graduating Class."
+    ],
+	"about":[
+        {
+            "main":[
+                "I’m a challenge-seeking engineer who’s always enthusiastic to learn and tries to do things in the best ways possible.",
+                "I am experienced in leveraging agile frameworks to provide a robust synopsis for high-level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition."
+            ],
+            "subMain":[]
+        }
+    ]
+}
